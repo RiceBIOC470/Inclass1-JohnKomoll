@@ -1,4 +1,6 @@
-% InClass1: some simple excerises to get started with MATLAB. Please complete by
+% AW: Looks good. 1/1. see one comment below. 
+
+%InClass1: some simple excerises to get started with MATLAB. Please complete by
 % the second class. Answer questions in comments and return assignment via
 % github
 %% numbers vs strings
@@ -16,6 +18,9 @@ b = a+a
 % a as the integer 1, but rather a character that corresponds to this
 % integer. The value of b is the addition of the two 16-bit numeric values
 % that correspond to the character 'a'.
+
+%AW: not 16 bit but these are ASCII values. otherwise ok. 
+
 %% concatenation
 % what is being done by the following statements? what is the difference between x2 and a2? 
 % what is the difference between x2 and x2b (hint run the size command on
